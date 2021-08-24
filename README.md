@@ -1,4 +1,12 @@
+# Thomas Nicholson
+## Full Stack Developer
+
 ### Hi there 👋
+
+Hi, I'm Thomas. I'm a full stack developer interested in making useful things
+
+[![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-nicholson)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **thomas-nicholson/thomas-nicholson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
