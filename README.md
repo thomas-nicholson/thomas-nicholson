@@ -5,7 +5,7 @@
 
 Hi, I'm Thomas. I'm a full stack developer interested in making useful things.
 
-You can have a look at my [LinkedIn](linkedin.com/in/thomas-nicholson-039534146) or my [portfolio](https://thomas-nicholson.github.io/react-portfolio/) for more.
+You can have a look at my [LinkedIn](linkedin.com/in/thomas-nicholson-039534146) or my [portfolio](https://thomas-nicholson.github.io/react-portfolio/) for more info.
 
 [![Thomas Nicholson's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-nicholson)](https://github.com/anuraghazra/github-readme-stats)
 
